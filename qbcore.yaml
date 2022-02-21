@@ -8,7 +8,7 @@ description: An advanced FiveM RP framework including jobs, gangs, housing & mor
 tasks:
   #  Download Base Files
   - action: download_github
-    src: https://github.com/flamezdev/txAdminP7
+    src: https://github.com/project7-fivem/txAdminTemplate
     ref: main
     dest: ./tmp/qbcore
 
@@ -24,6 +24,8 @@ tasks:
   - action: connect_database
   - action: query_database
     file: ./tmp/qbcore/qbcore.sql
+  - action: query_database
+    file: ./tmp/qbcore/global_blips.sql
     
 
   # STANDALONE
