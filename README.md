@@ -11,6 +11,7 @@ Please check the [**Recipe Documentation Page**](https://github.com/tabarra/txAd
 
 
 **Credits:**
+
 `qb-ealerts` - https://github.com/ActuallyStrez/qb-ealerts
 
 
