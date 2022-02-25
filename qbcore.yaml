@@ -528,6 +528,16 @@ tasks:
     ref: main
     src: https://github.com/qbcore-framework/qb-loading
 
+  - action: download_github
+    dest: ./resources/[qb]/qb-ealerts
+    ref: main
+    src: https://github.com/ActuallyStrez/qb-ealerts
+
+  - action: download_github
+    dest: ./resources/[qb]/qb-rpchat
+    ref: main
+    src: https://github.com/project7-fivem/qb-rpchat
+
   # Clean up
   - action: remove_path
     path: ./tmp
