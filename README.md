@@ -10,6 +10,10 @@ This recipe runs inside [**txAdmin**](https://github.com/tabarra/txAdmin).
 Please check the [**Recipe Documentation Page**](https://github.com/tabarra/txAdmin/blob/master/docs/recipe.md).
 
 
+**Credits:**
+`qb-ealerts` - https://github.com/ActuallyStrez/qb-ealerts
+
+
 **Commands:**
 
 `/ealerts` - Custom Email with Alert Sound (Max characters 255)
