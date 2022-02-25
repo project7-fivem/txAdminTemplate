@@ -2,7 +2,7 @@ $engine: 3
 $onesync: on
 name: Project 7 - QBCore
 version: 1.0.0
-author: Flamez, QBCore Team & QB Contributors
+author: Flamez, QBCore Team & Contributors
 description: An advanced FiveM RP framework including jobs, gangs, housing & more!
 
 tasks:
